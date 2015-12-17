@@ -1,0 +1,6 @@
+game value = 0.015625, win percent = 50.78125
+av_sigma=
+M,9 0 0 1,vR ( -0.09375 ) : {'R': 1.0}
+M,9 0 0 1,vR,g.R+,d-,vR ( -0.25 ) : {'R': 1.0}
+M,9 0 0 1,vR,g.R+,d-,vR,g.R+,d-,vR ( -0.5 ) : {'R': 1.0}
+M,9 0 0 1,vR,g.R+,d-,vR,g.R+,d-,vR,g.R+,d-,vR ( -1.0 ) : {'R': 1.0}

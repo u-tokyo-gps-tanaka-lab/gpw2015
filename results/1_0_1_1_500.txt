@@ -1,0 +1,2 @@
+game value = -0.333333333333, win percent = 33.3333333333
+av_sigma=

@@ -1,0 +1,1086 @@
+game value = -0.951997103094, win percent = 2.40014484532
+av_sigma=
+G,4 0 1 4,vR ( -0.891993481961 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR ( -0.747075170379 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR+,d-,vR ( -0.361111111111 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR+,d-,vR,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR+,d-,vR,gRR-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vC ( -0.95762642452 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( -0.364396367799 ) : {'C': 0.24924536062592204, 'R': 0.7507546393740779}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR ( -0.681345097662 ) : {'C': 0.14885947570757857, 'R': 0.8511405242924214}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( -0.363496391398 ) : {'C': 0.24698554349087048, 'R': 0.7530144565091296}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vC ( -0.36490448178 ) : {'C': 0.24917228942853029, 'R': 0.7508277105714698}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 2.3450980502793914e-06, 'R': 0.9999976549019498}
+G,4 0 1 4,vR,gRR+,d-,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC ( -0.986530673406 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR ( -0.748572570248 ) : {'C': 0.11104135999483551, 'R': 0.8889586400051646}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.957757899027 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( -0.366368485404 ) : {'C': 0.24276533882834986, 'R': 0.7572346611716502}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -0.681407942131 ) : {'C': 0.1491065797112195, 'R': 0.8508934202887806}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -0.36116396014 ) : {'C': 0.24335789904073832, 'R': 0.7566421009592617}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -0.370275548512 ) : {'C': 0.23724873120095022, 'R': 0.7627512687990499}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0562636658153234e-05, 'R': 0.9999894373633419}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCR+,d-,vR ( -0.371376287339 ) : {'C': 0.6227009335518224, 'R': 0.37729906644817757}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRC+,d-,vR ( -0.361111111111 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR+,d-,vR ( -0.364198109989 ) : {'C': 0.2006090638327145, 'R': 0.7993909361672855}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -0.962127637265 ) : {'C': 0.14948015693142494, 'R': 0.850519843068575}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -0.364287334053 ) : {'C': 0.24985062462685614, 'R': 0.7501493753731439}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( -0.333333333333 ) : {'C': 6.599883615465976e-06, 'R': 0.9999934001163845}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR ( -0.610514968449 ) : {'C': 0.2238384787608167, 'R': 0.7761615212391832}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( -0.364560199429 ) : {'C': 0.24953594917897912, 'R': 0.750464050821021}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( -0.333333333333 ) : {'C': 2.507760063404971e-05, 'R': 0.999974922399366}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC ( -0.333333333333 ) : {'C': 7.23216988125744e-06, 'R': 0.9999927678301187}
+G,4 0 1 4,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR ( -0.876006355056 ) : {'C': 0.11784354828730931, 'R': 0.8821564517126907}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR+,d-,vR,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR+,d-,vR,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.37567298678772665, 'R': 0.6243270132122732}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.7639441442151916, 'R': 0.23605585578480848}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.06754421598140462, 'R': 0.9324557840185953}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.3530275307984428, 'R': 0.6469724692015572}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vR ( - ) : {'C': 3.5876633942001744e-05, 'R': 0.999964123366058}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR ( -0.748516792055 ) : {'C': 0.11347507523633153, 'R': 0.8865249247636685}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.957628633534 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( -0.364429503015 ) : {'C': 0.24478381273159167, 'R': 0.7552161872684084}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -0.681360814031 ) : {'C': 0.14868121673385903, 'R': 0.851318783266141}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -0.36459332523 ) : {'C': 0.24672771078086173, 'R': 0.7532722892191384}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -0.363907750578 ) : {'C': 0.24849293942601727, 'R': 0.7515070605739828}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 4.383326056076915e-05, 'R': 0.9999561667394393}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vR ( -0.364206907333 ) : {'C': 0.2934253648343909, 'R': 0.706574635165609}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vR ( -0.361111111111 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vR,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vR,gRR-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vR ( -0.364472115213 ) : {'C': 0.24327640388746666, 'R': 0.7567235961125334}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -0.962521158846 ) : {'C': 0.14924325815424475, 'R': 0.8507567418457553}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -0.364312412113 ) : {'C': 0.24698746557813397, 'R': 0.753012534421866}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.27880883949762436, 'R': 0.7211911605023756}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( -0.333333333333 ) : {'C': 0.0001430657297669978, 'R': 0.9998569342702329}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR ( -0.609812980791 ) : {'C': 0.2229768028816641, 'R': 0.777023197118336}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( -0.365961237428 ) : {'C': 0.24821991456964804, 'R': 0.751780085430352}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( -0.333333333333 ) : {'C': 0.0005458600740228177, 'R': 0.9994541399259772}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gCR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gRC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gRC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gRR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gRR-,d-,vC ( -0.333333333333 ) : {'C': 0.00015664157077645147, 'R': 0.9998433584292234}
+G,4 0 1 4,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vC ( -0.957644601087 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vC,gRR-,d-,vR ( -0.364669016298 ) : {'C': 0.2967424632653849, 'R': 0.7032575367346151}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR ( -0.680880200808 ) : {'C': 0.32517341675166117, 'R': 0.6748265832483389}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vR ( -0.36509345962 ) : {'C': 0.25114693998899007, 'R': 0.7488530600110099}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vC ( -0.365843350695 ) : {'C': 0.3603745180086409, 'R': 0.6396254819913592}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 6.275522295202279e-06, 'R': 0.9999937244777047}
+G,4 0 1 4,vR,gRR-,d-,vR,gCR+,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vR ( - ) : {'C': 0.11947034899924859, 'R': 0.8805296510007514}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vC ( -0.957644379573 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vC,gRR-,d-,vR ( -0.364665693593 ) : {'C': 0.24265339874642378, 'R': 0.7573466012535762}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR ( -0.681461710418 ) : {'C': 0.1234937086282482, 'R': 0.8765062913717518}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vR ( -0.365032402255 ) : {'C': 0.24802578224136898, 'R': 0.751974217758631}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vC ( -0.364838091195 ) : {'C': 0.23790318902600857, 'R': 0.7620968109739914}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0141508066825428e-06, 'R': 0.9999989858491933}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR+,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC ( -0.748606090663 ) : {'C': 0.11371287346543503, 'R': 0.8862871265345649}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.95770143065 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( -0.365521459756 ) : {'C': 0.2506076813024261, 'R': 0.749392318697574}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -0.681181234107 ) : {'C': 0.1492771863817074, 'R': 0.8507228136182926}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( -0.363747597026 ) : {'C': 0.2500615881895039, 'R': 0.749938411810496}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( -0.36397983391 ) : {'C': 0.24927638981070074, 'R': 0.7507236101892992}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vR ( -0.333333333333 ) : {'C': 5.847348180701259e-06, 'R': 0.9999941526518193}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCR+,d-,vR ( -0.362986104032 ) : {'C': 0.09105856373629995, 'R': 0.9089414362637}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gCR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRC+,d-,vR ( -0.361111111111 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRC+,d-,vR,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRC+,d-,vR,gRR-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR+,d-,vR ( -0.364819047675 ) : {'C': 0.27127424453948773, 'R': 0.7287257554605123}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -0.962345305327 ) : {'C': 0.1491916370907394, 'R': 0.8508083629092607}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( -0.363628886594 ) : {'C': 0.24467408071060923, 'R': 0.7553259192893907}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( -0.333333333333 ) : {'C': 6.7513867380623495e-06, 'R': 0.9999932486132619}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( -0.610688054832 ) : {'C': 0.22447963363969659, 'R': 0.7755203663603035}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( -0.364246712158 ) : {'C': 0.24791121289501047, 'R': 0.7520887871049896}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( -0.333333333333 ) : {'C': 2.5588674593071592e-05, 'R': 0.999974411325407}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gCR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( -0.333333333333 ) : {'C': 7.406815535917745e-06, 'R': 0.999992593184464}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR ( -0.519311836258 ) : {'C': 0.10514177156442629, 'R': 0.8948582284355738}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vR ( -0.36488211005 ) : {'C': 0.29021006939835664, 'R': 0.7097899306016434}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( -0.963203137628 ) : {'C': 0.15040400639715149, 'R': 0.8495959936028485}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( -0.365035312977 ) : {'C': 0.24728496436307645, 'R': 0.7527150356369237}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRC+,d-,vR ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR+,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.2943099937780944, 'R': 0.7056900062219056}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( -0.333333333333 ) : {'C': 6.332408483277331e-06, 'R': 0.9999936675915168}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( -0.610720521029 ) : {'C': 0.22217877452537071, 'R': 0.7778212254746292}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( -0.368431560753 ) : {'C': 0.2518308796781352, 'R': 0.7481691203218648}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( -0.333333333333 ) : {'C': 2.4214684272798375e-05, 'R': 0.9999757853157272}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gCR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( -0.333333333333 ) : {'C': 6.916742178083689e-06, 'R': 0.9999930832578219}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vC ( -0.36506839987 ) : {'C': 0.47877955884217765, 'R': 0.5212204411578223}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vR ( -0.333333333333 ) : {'C': 4.042120393569678e-05, 'R': 0.9999595787960643}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gCR+,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vR ( -0.36469747965 ) : {'C': 0.24679564439496793, 'R': 0.7532043556050321}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vR,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vC ( -0.364428978541 ) : {'C': 0.2171762636308942, 'R': 0.7828237363691058}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vR ( -0.333333333333 ) : {'C': 5.006498222555209e-06, 'R': 0.9999949935017775}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR+,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC ( -0.563290040519 ) : {'C': 0.22363556584517139, 'R': 0.7763644341548287}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( -0.363855375437 ) : {'C': 0.2500831279441338, 'R': 0.7499168720558662}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( -0.333333333333 ) : {'C': 2.5439236274931154e-05, 'R': 0.9999745607637252}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gCR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRC+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRC+,d-,vR ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRR+,d-,vC ( -1.0 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( -0.333333333333 ) : {'C': 7.3278962156562e-06, 'R': 0.9999926721037843}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vR ( -0.5 ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vR,gCC+,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+G,4 0 1 4,vR,gRR-,d-,vR,gRR-,d-,vR,gRR-,d-,vR,gRC+,d-,vC ( - ) : {'C': 0.5, 'R': 0.5}
+M,4 0 1 4,vM ( -0.891993481961 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM ( -0.743972174917 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,g.R+,d-,vM ( -0.347931873479 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,g.R+,d-,vM,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,g.R+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC ( -0.95762642452 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vM ( -0.364396367799 ) : {'C': 0.24999959589409573, 'R': 0.7500004041059043}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM ( -0.401109226989 ) : {'C': 4.191352632726962e-05, 'R': 0.9999580864736727}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,g.R+,d-,vC ( -0.901719023619 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.3139417374011452, 'R': 0.6860582625988547}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vC ( -0.36490448178 ) : {'C': 0.2505775286352031, 'R': 0.7494224713647969}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR ( -0.974387312223 ) : {'C': 0.43099181766921785, 'R': 0.5690081823307821}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vM ( -0.363496391398 ) : {'C': 0.24989804798127566, 'R': 0.7501019520187243}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,g.R+,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC ( -0.986530673406 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM ( -0.748572570248 ) : {'C': 0.17668769188104827, 'R': 0.8233123081189517}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.C+,d-,vM ( -0.361111111111 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vM ( -0.353212832469 ) : {'C': 0.25229769644070105, 'R': 0.7477023035592989}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.957757899027 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM ( -0.366368485404 ) : {'C': 0.24974348772675345, 'R': 0.7502565122732465}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM ( -0.398387927952 ) : {'C': 0.0059672299433225886, 'R': 0.9940327700566775}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vC ( -0.902424051334 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.2714632951040218, 'R': 0.7285367048959783}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC ( -0.370275548512 ) : {'C': 0.26130150069807573, 'R': 0.7386984993019243}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -0.976285304207 ) : {'C': 0.4208757770783739, 'R': 0.579124222921626}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM ( -0.36116396014 ) : {'C': 0.2660020836051387, 'R': 0.7339979163948613}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -0.962127637265 ) : {'C': 0.1485409813910552, 'R': 0.8514590186089447}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM ( -0.364287334053 ) : {'C': 0.25166734207131497, 'R': 0.748332657928685}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM ( -0.415772452674 ) : {'C': 0.36363379819525027, 'R': 0.6363662018047497}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC ( -0.364560199429 ) : {'C': 0.2501583316464796, 'R': 0.7498416683535204}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM ( -0.76462324376 ) : {'C': 3.290044596796493e-05, 'R': 0.999967099554032}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,g.R+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR ( - ) : {'C': 0.30967483920895705, 'R': 0.690325160791043}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vM ( - ) : {'C': 0.3096748392089572, 'R': 0.6903251607910428}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC ( -0.969852804313 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vM ( -0.364666160387 ) : {'C': 0.24994256718294322, 'R': 0.7500574328170568}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM ( -0.428714480413 ) : {'C': 5.019996987108929e-05, 'R': 0.9999498000301289}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,g.R+,d-,vC ( -0.934691028538 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.2620497700185864, 'R': 0.7379502299814135}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC ( -0.364948279907 ) : {'C': 0.2506838546274755, 'R': 0.7493161453725246}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR ( -0.982402008547 ) : {'C': 0.43082626776892635, 'R': 0.5691737322310736}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vM ( -0.36505249195 ) : {'C': 0.25086981898577604, 'R': 0.749130181014224}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,g.R+,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,g.R+,d-,vM ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,g.R+,d-,vM,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,g.R+,d-,vM,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vM ( - ) : {'C': 0.2091315541456346, 'R': 0.7908684458543654}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM ( - ) : {'C': 0.1748432913037394, 'R': 0.8251567086962606}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,g.R+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.8290320150318086, 'R': 0.17096798496819143}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.1766507187830735, 'R': 0.8233492812169264}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.3959554419033381, 'R': 0.6040445580966619}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0.6745622411973987, 'R': 0.32543775880260123}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vM ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM ( - ) : {'C': 0.18000060302736076, 'R': 0.8199993969726393}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vR,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vR,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR ( - ) : {'C': 0.568263576748628, 'R': 0.43173642325137196}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,g.R+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.8664246253490165, 'R': 0.13357537465098346}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0302256432724021, 'R': 0.9697743567275979}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,g.R+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.9786934998225072, 'R': 0.021306500177492856}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.8309588881372386, 'R': 0.16904111186276144}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.046864141376224216, 'R': 0.9531358586237757}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,g.R+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.3713888372659964, 'R': 0.6286111627340035}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR ( - ) : {'C': 0.1915435008970628, 'R': 0.8084564991029372}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,g.C+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,g.C+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,g.R+,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,g.R+,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.6928369658786946, 'R': 0.3071630341213054}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gRR-,d-,vC ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.233179668516717, 'R': 0.766820331483283}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.C+,d-,vM ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.C+,d-,vM,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.C+,d-,vM,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vM ( - ) : {'C': 0.5657433541898419, 'R': 0.43425664581015816}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vM ( - ) : {'C': 0.8129300004652674, 'R': 0.18706999953473252}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0.0415677304490775, 'R': 0.9584322695509224}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,g.R+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.9820782043307805, 'R': 0.017921795669219497}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.7520297946860673, 'R': 0.24797020531393274}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.08020290766169928, 'R': 0.9197970923383006}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0.9822145265112485, 'R': 0.017785473488751435}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vM ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.10655492509963262, 'R': 0.8934450749003674}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vM ( - ) : {'C': 0.8216511824273622, 'R': 0.17834881757263776}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vM ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM ( - ) : {'C': 0.19101698091905928, 'R': 0.8089830190809407}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,g.C+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,g.R+,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,g.R+,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.709585655672251, 'R': 0.29041434432774904}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gRR-,d-,vC ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC ( -0.748606090663 ) : {'C': 0.17839428369695862, 'R': 0.8216057163030415}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.C+,d-,vM ( -0.361111111111 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.C+,d-,vM,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.C+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vM ( -0.352311631212 ) : {'C': 0.2507099166872165, 'R': 0.7492900833127836}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.95770143065 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vM ( -0.365521459756 ) : {'C': 0.25097151832828646, 'R': 0.7490284816717135}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM ( -0.399149881551 ) : {'C': 8.08338075319164e-05, 'R': 0.9999191661924681}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,g.R+,d-,vC ( -0.902140932775 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.5181620623989891, 'R': 0.4818379376010109}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -0.36397983391 ) : {'C': 0.252877964602758, 'R': 0.7471220353972419}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -0.975475057775 ) : {'C': 0.430269888953566, 'R': 0.569730111046434}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vM ( -0.363747597026 ) : {'C': 0.2518621837860317, 'R': 0.7481378162139682}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -0.962345305327 ) : {'C': 0.1483641134004823, 'R': 0.8516358865995177}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vM ( -0.363628886594 ) : {'C': 0.2499898501360731, 'R': 0.7500101498639269}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM ( -0.416032082248 ) : {'C': 0.3631304469696907, 'R': 0.6368695530303092}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.364246712158 ) : {'C': 0.2502780521567105, 'R': 0.7497219478432895}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM ( -0.099956724358 ) : {'C': 0.00018716116903629568, 'R': 0.9998128388309636}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'C': 0.2973545327365887, 'R': 0.7026454672634114}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC ( -0.351649343841 ) : {'C': 0.25098499475899544, 'R': 0.7490150052410045}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0802572236719902, 'R': 0.9197427763280098}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,g.R+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,g.R+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.2889172714533259, 'R': 0.7110827285466742}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.23357877349607628, 'R': 0.7664212265039236}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.3031924994591066, 'R': 0.6968075005408935}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,g.C+,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,g.C+,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,g.R+,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.38827149542253864, 'R': 0.6117285045774613}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC ( -0.416660115785 ) : {'C': 0.36269045181692, 'R': 0.6373095481830799}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.363855375437 ) : {'C': 0.25190623199775763, 'R': 0.7480937680022424}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR ( -0.5 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,g.R+,d-,vC ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR ( -0.743566082688 ) : {'C': 0.7354597541451755, 'R': 0.2645402458548245}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vM ( -0.353776545681 ) : {'C': 0.25034948475406565, 'R': 0.7496505152459344}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.C+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.R+,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.R+,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,g.R+,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( -0.963203137628 ) : {'C': 0.14797463744530837, 'R': 0.8520253625546917}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vM ( -0.365035312977 ) : {'C': 0.25463753701282366, 'R': 0.7453624629871763}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM ( -0.416080781544 ) : {'C': 0.3628770935325914, 'R': 0.6371229064674087}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.368431560753 ) : {'C': 0.25172847937384424, 'R': 0.7482715206261558}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM ( -0.5 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vM,gRR-,d-,vR,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR ( -0.990542099763 ) : {'C': 0.3869162515433516, 'R': 0.6130837484566484}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM ( -0.748516792055 ) : {'C': 0.1784566795446036, 'R': 0.8215433204553965}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.C+,d-,vM ( -0.361111111111 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.C+,d-,vM,gRR-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.C+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vM ( -0.352279306727 ) : {'C': 0.25020963281553765, 'R': 0.7497903671844623}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,g.R+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.957628633534 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vM ( -0.364429503015 ) : {'C': 0.25015359906167695, 'R': 0.7498464009383231}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM ( -0.402831750325 ) : {'C': 0.001704337450318222, 'R': 0.9982956625496817}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,g.C+,d-,vR ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,g.R+,d-,vC ( -0.901322595166 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0.44993948096245323, 'R': 0.5500605190375468}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vC ( -0.363907750578 ) : {'C': 0.2546118131218007, 'R': 0.7453881868781993}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -0.973259918491 ) : {'C': 0.42868943016329264, 'R': 0.5713105698367074}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vM ( -0.36459332523 ) : {'C': 0.25396357928166546, 'R': 0.7460364207183345}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC ( -0.962521158846 ) : {'C': 0.14841292148752275, 'R': 0.8515870785124773}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vM ( -0.364312412113 ) : {'C': 0.2505856197648852, 'R': 0.7494143802351149}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM ( -0.414719471186 ) : {'C': 0.36350058668768354, 'R': 0.6364994133123164}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vC ( -0.365961237428 ) : {'C': 0.252950127304401, 'R': 0.747049872695599}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gCC-,d-,vM,gRR-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM ( -0.748682457366 ) : {'C': 0.7354876016372914, 'R': 0.2645123983627085}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vM ( -0.364710343801 ) : {'C': 0.25033999789074773, 'R': 0.7496600021092522}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.C+,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.R+,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,g.R+,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC ( -0.963203137628 ) : {'C': 0.14801629917936712, 'R': 0.8519837008206329}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vM ( -0.365035312977 ) : {'C': 0.254637596290548, 'R': 0.7453624037094521}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vC,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM ( -0.416080781544 ) : {'C': 0.3628653826347493, 'R': 0.6371346173652507}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,g.C+,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,g.R+,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC ( -0.368431560753 ) : {'C': 0.25176624711172896, 'R': 0.748233752888271}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( -0.833333333333 ) : {'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vC,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gCC-,d-,vR,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC ( -0.333333333333 ) : {'C': 1.0, 'R': 0.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vC,gCC-,d-,vR ( - ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vM,gRR-,d-,vR ( -0.333333333333 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gCC-,d-,vR,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vC ( -1.0 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vC,gCC-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM ( -0.5 ) : {'C': 0.0, 'R': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,g.C+,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,g.R+,d-,vC ( -1.0 ) : {'C': 1.0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vC ( - ) : {'C': 0, 'R': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vC,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vM,gCC-,d-,vR ( - ) : {'C': 0}
+M,4 0 1 4,vM,gRR-,d-,vR,gRR-,d-,vM,gRR-,d-,vR ( -1.0 ) : {'C': 1.0}

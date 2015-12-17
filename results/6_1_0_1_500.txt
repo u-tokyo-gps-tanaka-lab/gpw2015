@@ -1,0 +1,13 @@
+game value = -0.0714285714286, win percent = 46.4285714286
+av_sigma=
+M,6 1 0 1,vR ( -0.25 ) : {'R': 0.0, 'D': 1.0}
+M,6 1 0 1,vR,g.D+,d-,vR ( -0.5 ) : {'R': 1.0}
+M,6 1 0 1,vR,g.D+,d-,vR,g.R+,d-,vR ( -1.0 ) : {'R': 1.0}
+M,6 1 0 1,vR,g.R+,d-,vR ( - ) : {'R': 0, 'D': 0}
+M,6 1 0 1,vR,g.R+,d-,vR,g.D+,d-,vR ( - ) : {'R': 0}
+M,6 1 0 1,vR,g.R+,d-,vR,g.R+,d-,vR ( - ) : {'R': 0, 'D': 0}
+M,6 1 0 1,vR,g.R+,d-,vR,g.R+,dR,vR ( - ) : {'D': 0, 'W': 0}
+M,6 1 0 1,vR,g.R+,dR,vR ( - ) : {'R': 0, 'D': 0, 'W': 0}
+M,6 1 0 1,vR,g.R+,dR,vR,g.D+,d-,vR ( - ) : {'R': 0, 'W': 0}
+M,6 1 0 1,vR,g.R+,dR,vR,g.R+,d-,vR ( - ) : {'D': 0, 'W': 0}
+M,6 1 0 1,vR,g.R+,dR,vR,g.W+,dR,vR ( - ) : {'D': 0, 'W': 0}
