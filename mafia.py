@@ -58,17 +58,6 @@ def nextStates(h):
         return [h + ',v' + m for m in ['R', 'G', 'M', 'C'] if hist[HI[m]] > 0]
     elif i3 == 2: # Guard turn
         gs = ['-'] if hist[G] + hist[S] == 0 else [m for m in ['R', 'D', 'M', 'W', 'C'] if hist[HI[m]] > 0]
-#        gs = []
-#        if hist[G] + hist[S] == 0:
-#            gs = ['-']
-#        else:
-#            for a in is2action(makeISg(h)):
-#                if a == 'R':
-#                    if hist[R] > 0 :
-#                        gs += ['R']
-#                    gs += ['M']
-#                else:
-#                    gs += a
         r = []
         for m1 in ['R', 'D', 'G', 'W', 'C', 'S']:
             if hist[HI[m1]] > 0:
@@ -80,7 +69,7 @@ def nextStates(h):
                             r += [h+',g'+m+m1+'+']
                         r += [h+',g'+m+m1+'-']
         return r
-    else: # D
+    else: # Detective turn
         if hist[D] == 0: return [h + ',d-']
         r = []
         for m in ['R', 'G', 'M', 'C']:
@@ -89,20 +78,12 @@ def nextStates(h):
                     r += [h+',d'+m]
         if hs[-1][3] == '+' and hs[-1][2] != 'W' and hs[-1][2] != 'S': r += [h+',d-']
         return r
-
-# p_g {'R' : p_r, 'D' : p_d, 'W' : p_w, 'C' : p_c}
-# 'R' for guard may be 'M'
-# if the guard is not present, p_g is {'-' : 1} 
-# p_m {'R' : p_r, 'D' : p_d, 'W' : p_w, 'C' : p_c}
-# 'R' for mafia may be 'G'
-# 'W' for mafia may be 'S'
 def nextStatesGuardTurnWithProb(h, p_g, p_m):
     hist = h2hist(h)
     hs = h.split(',')
     # must be guard turn
     if h[-2] != 'v': return []
     p_g_r = {}
-#    print("p_g = %s" % p_g)
     for k, p in p_g.items():
         if k == 'R':
             s = hist[R] + hist[M]
@@ -129,8 +110,6 @@ def nextStatesGuardTurnWithProb(h, p_g, p_m):
         else:
             p_m_r[k] = p
     r = []
-#    print("p_g = %s, p_m = %s" %(p_g, p_m))
-#    print("p_g_r = %s, p_m_r = %s" %(p_g_r, p_m_r))
     for g_k, g_p in p_g_r.items():
         for m_k, m_p in p_m_r.items():
             mulp = g_p * m_p
@@ -141,7 +120,6 @@ def nextStatesGuardTurnWithProb(h, p_g, p_m):
             if mp != 1.0:
                 r += [(h+',g'+g_k+m_k+'+', (mulp * (1-mp), g_p * (1-mp), m_p * (1-mp)))]
             r += [(h+',g'+g_k+m_k+'-', (mulp * mp, g_p * mp, m_p * mp))]
-#    print("nextStatesGuardTurnWithProb(h = %s, p_g = %s, p_m = %s): returns %s" %(h,p_g,p_m,r))
     return r
 
 def nextStatesWithProb(h, sigma):
@@ -163,8 +141,6 @@ def nextStatesWithProb(h, sigma):
         g_i = makeISg(h)
         m_i = makeISm(h)
         p_g = {'-' : 1} if g_i not in sigma else sigma[g_i]
-#        if m_i not in sigma:
-#            print("h=%s" % h)
         p_m = sigma[m_i]
         return [(n, p) for n,p in nextStatesGuardTurnWithProb(h, p_g, p_m)]
     else: # detective turn
@@ -188,15 +164,12 @@ def makeAllHistory(init):
     while len(prev) > 0:
         next=[]
         for n in prev:
-#            if n in visited: continue
             visited.add(n)
             if isTerminal(n): continue
             for n1 in nextStates(n):
                 next += [n1]
         prev = next
     return visited
-
-    
 
 def makeISm(h):
     if isTerminal(h) or h[-2] != 'v': return ''
@@ -219,8 +192,6 @@ def ism2action(i):
 def isg2hist(i):
     hs=i.split(',')
     hist = [int(x) for x in hs[0].split(' ')]+[0]*3
-#    print("isg2action(i=%s)" % i)
-#    print("hist=%s" % hist)
     g_hist = updateHist(hist, hs[1:])
     g_hist[R] += g_hist[M]
     g_hist[M] = 0
@@ -228,7 +199,6 @@ def isg2hist(i):
 
 def isg2action(i):
     g_hist = isg2hist(i)
-#    print("hist=%s" % hist)
     return [m for m in ['R', 'D', 'W', 'C'] if g_hist[HI[m]] > 0]
 
 def is2action(i):
@@ -237,7 +207,6 @@ def is2action(i):
 
 # make the IS of guardsfrom history
 def makeISg(h):
-#    if h.find('vG') >= 0 or re.search(',g.[SG]\+',h) or isTerminal(h) or h[-2] != 'v': return ''
     hist = h2hist(h)
     if hist[G] + hist[S] == 0 or isTerminal(h) or h[-2] != 'v': return ''
     h = h.replace(',vM',',vR')
@@ -258,20 +227,7 @@ class Mafia:
                 elif i not in self.is2hs:
                     self.is2hs[i] = [h]
                 else: self.is2hs[i].append(h)
-#        h = '4 1 1 2,vR,gRR-,dC,vR,gRR-,dM,vM,gMW+,dG,vC'
-#        h = '4 1 1 2,vR,gRR-,dM,vM,gDD-,dR,vR,gMW+,dG,vC'
-#        hs = h.split(',')
-#        for c in range(1,len(hs)+1):
-#            h1 = ','.join(hs[:c])
-#            print("h1=%s" % h1)
-#            i = makeISg(h1)
-#            print("i=%s" % i)
-#            print("is2hs=%s" % (self.is2hs[i] if i in self.is2hs else '-'))
-#        print("is2hs=")
-#        cfrplus.ppdic(self.is2hs)
-#            print(self.is2hs)
         self.isactions = { i : is2action(i) for i in self.is2hs.keys()}
-#        print("isactions=%s" % self.isactions)
 
     def utility(self, h):
         return utility(h)
@@ -292,7 +248,6 @@ def main():
     nR, nD, nG, nM = [int(x) for x in sys.argv[1:5]]
     nIterations = 100 if len(sys.argv) < 6 else int(sys.argv[5])
     g = Mafia(nR, nD, nG, nM)
-#    cfrplus.cfrplus(g)
     cfrplus.cfrplus(g, nIterations, False)
 
 if __name__ == '__main__':

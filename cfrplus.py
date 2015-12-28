@@ -34,45 +34,29 @@ def piMul(p1, p2):
     return tuple(p1[i]*p2[i] for i in range(3))
 def makePiURec(g, h, p, pi, all_u, sigma):
     pi[h] = p
-#    if h == '4 1 1 2,vR,gRR-,dM,vM,gRR-,dG,vR,gMD+,d-,vC'[:len(h)]:
-#        print("makePiURec(h=%s)" % h)
     if g.isTerminal(h):
         all_u[h] = g.utility(h)
         return all_u[h]
     ns = g.nextWithProb(h, sigma)
-#    if h == '4 1 1 2,vR,gRR-,dM,vM,gRR-,dG,vR,gMD+,d-,vC'[:len(h)]:
-#        g_i = g.makeIS(h, 0)
-#        if g_i != '':
-#            print("sigma=%s" % sigma[g_i])
-#        print("ns=%s" % ns)
-#    print("h=%s, ns=%s" % (h, ns))
     all_u[h] = sum(makePiURec(g, h1, piMul(p, p1), pi, all_u, sigma) * p1[0] for h1, p1 in ns)
     return all_u[h]
 
 def makePiU(g, sigma, pi, all_u):
-#    print("makePiU(g.init=%s)" % g.init)
-#    pi = {}
-#    all_u = {}
     all_u[g.init] = makePiURec(g, g.init, (1, 1, 1), pi, all_u, sigma)
     return (pi, all_u)
 
 def makeRDiff(g, h, i, a, sigma, pi, all_u):
     old_u = all_u[h]
     both_i = [g.makeIS(h, p) for p in range(2)]
-#    print("i=%s, i2p(i)=%s" %(i, g.i2p(i)))
     b_both = [{a : 1} if g.i2p(i) == p else sigma[both_i[p]] for p in range(2)]
     new_u = sum(all_u[n1] * p1[0] for n1,p1 in g.next(h, b_both))
-#   for n1,p1 in g.next(h, b_both):
-#        print("n1=%s, p1=%s, all_u=%s" % (n1, p1, all_u[n1]))
     r = pi[h][2-g.i2p(i)] * (new_u - old_u)
-#    print("b_both = %s, pi[h]= %s, old_u= %s, new_u = %s, r = %s" %(b_both, pi[h], old_u, new_u, r))
     return (r if g.i2p(i) == 0 else -r)
 
 def oneIterationCFR(g, count, r, sum_pi, sum_sigma, sigma, all_u, debugprint):
     for p in range(1,-1,-1):
         sigma = makeSigma(r, g.isactions)
         pi = {}
-#        (pi, all_u) = makePiU(g, sigma)
         makePiU(g, sigma, pi, all_u)
         if p==0: # count > 0:
             for i, hs in g.is2hs.items():
@@ -132,7 +116,6 @@ def oneIteration(g, count, q, sum_pi, sum_sigma, sigma, all_u, debugprint):
     for p in range(1,-1,-1):
         sigma = makeSigma(q, g.isactions)
         pi = {}
-#        (pi, all_u) = makePiU(g, sigma)
         makePiU(g, sigma,pi,all_u)
         if True: # p == 0: # count > 0:
             for i, hs in g.is2hs.items():
@@ -188,11 +171,5 @@ def cfrplus(g, iteration = 100, debugprint = True):
     pi = {}
     makePiU(g, sigma, pi, all_u)
     print("game value = %s, win percent = %s" % (all_u[g.init], (all_u[g.init] + 1) * 100.0 / 2.0))
-#    print("all_u=")
-#    ppdic(all_u)
-#    print("all_u[g.init]=%s" % all_u[g.init])
-#    print("sigma=")
-#    ppdic(sigma)
     print("av_sigma=")
     pp_sigma(g, av_sigma, all_u, pi)
-#    ppdic(av_sigma)
